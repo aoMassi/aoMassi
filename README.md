@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **DinnerTime**
 
-- 🌱 I’m currently learning **Angularjs**
-
 - 👨‍💻 All of my projects are available at [https://troopl.com/aouchichemassinissa](https://troopl.com/aouchichemassinissa)
 
 - 📫 How to reach me **aouchiche.massinissa@gmail.com**
